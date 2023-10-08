@@ -1216,34 +1216,6 @@ header .logo a {
 	transform: rotate(-45deg);
 }
 
-/**
- * lang toggle - (_layout.css)
- * ------------------------------------------------------------------- 
- */
-.lang-toggle {
-	float: right;
-	width: 200px;
-	height: 40px;
-	margin-right: 20px;
-	margin-top: 13px;
-	display: block;
-	position: relative;
-}
-
-.lang-toggle span {
-	display: block;
-	width: 240px;
-	height: 3px;
-	margin-top: -1.5px;
-	text-shadow: none;
-	color: #e8d905;
-	position: absolute;
-	left: 8px;
-	top: 25%;
-	bottom: auto;
-	right: auto;
-}
-
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
